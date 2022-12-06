@@ -8,6 +8,8 @@
 #include<glib/gprintf.h>
 #include<stdbool.h>
 
+
+
 /// /////////////////////////////////// INICIO DECLARACI�N DE CONSTANTES //////////////////////////////////////////////////////////////////
 #define ARRIBA     10
 #define ABAJO      20
